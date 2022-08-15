@@ -1,0 +1,45 @@
+body{
+	font-size: 17px;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	color: #333;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 43px;
+}
+
+h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+
+}
+
+.question{
+	font-weight: 600;
+    margin-bottom: 12px ;
+}
+
+.answers {
+    margin-bottom: 30px;
+}
+
+.answers label{
+    display: block;
+  }
+
+#submit{
+	font-family: sans-serif;
+	font-size: 18px;
+	background-color: #297;
+	color: #fff;
+	border: 0px;
+	border-radius: 3px;
+	padding: 20px;
+	cursor: pointer;
+	margin-bottom: 20px;
+}
+
+#submit:hover{
+	background-color: #3a8;
+}
